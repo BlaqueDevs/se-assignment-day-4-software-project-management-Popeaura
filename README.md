@@ -16,7 +16,7 @@
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 Some of the key methods used to ensure quality assurance are code review and Automaated testing.High standard maintainanc ensures reliabillity, security and  meeting customer expection.
 
-##6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+## 6.How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
   It is usefull since it points out the main objectives of a project and its contribution is huge since it helps one have a clear idea of what the project is expected of in the end of the day.WBS is another  key factor to consider in project         
   planning and running since it's contribution is huge since it   helps in resource allocation.
 
